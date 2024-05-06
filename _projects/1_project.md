@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Interactive Skill Learning
+description: Learning from Demos, Interactive Correction, Uncertainty Estimation
+img: assets/img/projects/general/pskill.jpg
 importance: 1
-category: work
+category: general
 related_publications: true
 ---
 

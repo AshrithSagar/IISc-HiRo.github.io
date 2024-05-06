@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Learning   Robot Control
+description: Uncertain Kinematics & Dynamics, Adaptive and Optimal Control, Adaptive Critic
+img: assets/img/projects/general/constraint.png
 importance: 4
-category: fun
+category: general
 ---
 
 Every project has a beautiful feature showcase page.

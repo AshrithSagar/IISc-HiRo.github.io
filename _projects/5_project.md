@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Safety and Stability in HRI
+description: Fail Safe Motion, Human Environment, Stability of Interconnected System
+img: assets/img/projects/general/safe.png
 importance: 3
-category: fun
+category: general
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Long Horizon Manipulation
+description: Skill Sequencing, Human Interactive Task and Motion Planning, Hierarchical RL 
+img: assets/img/projects/general/plonghorizon.png
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: general
 ---
 
 Every project has a beautiful feature showcase page.

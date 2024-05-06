@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Task & Policy Generalization
+description: Task Parameterization, Object Relation Modeling, Optimal Transport
+img: assets/img/projects/general/ptransfer.png
 importance: 3
-category: fun
+category: general
 ---
 
 Every project has a beautiful feature showcase page.

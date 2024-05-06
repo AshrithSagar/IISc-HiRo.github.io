@@ -1,0 +1,42 @@
+<div class="grid-sizer"></div>
+<div class="grid-item" style = "margin-right:35px; margin-bottom:25px;">
+  <a href="{% if people.redirect %}{{ people.redirect }}{% else %}{{ people.url | relative_url }}{% endif %}">
+    <div class="card hoverable">
+      {% if people.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=people.img
+          sizes = "250px"
+          alt="people thumbnail"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h5 class="card-title" style = "margin-top:-25px; margin-bottom:1px;">{{ people.title }}</h5>
+        <p class="card-text" style = "margin-bottom:-2px;">{{ people.description }}</p>
+        <div class="row ml-1 mr-1 p-0">
+          {% if people.github %}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ people.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
+              </div>
+              {% if people.github_stars %}
+                <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                  <i class="fa-solid fa-star"></i>
+                  <span id="{{ people.github_stars }}-stars"></span>
+                </span>
+              {% endif %}
+            </div>
+          {% endif %}
+          {% if people.linkedin %}
+            <div class="linkedin-icon" >
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ people.linkedin }}"><i class="fab fa-linkedin" style = "margin-left:10px;"></i></a>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
