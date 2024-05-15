@@ -5,7 +5,7 @@ permalink: /people/
 description: members of the lab 
 nav: true
 nav_order: 2
-display_categories: [lead, master, ra]
+display_categories: [lead, master, ra, intern]
 horizontal: false
 ---
 
