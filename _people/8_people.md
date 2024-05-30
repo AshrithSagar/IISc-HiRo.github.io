@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sidhartha Watsa
-description: Imitation Learning from Imperfect Demostration
-img: assets/img/people/ra/sid.jpeg
+title: Tashmoy Ghosh
+description: Bimaual Robot Manipulation
+img: assets/img/people/ra/Tashmoy.png
 importance: 3
-category: ra
+category: Research Assistant
 giscus_comments: true
 ---
 
