@@ -4,7 +4,7 @@ title: Tashmoy Ghosh
 description: Bimaual Robot Manipulation
 img: assets/img/people/ra/Tashmoy.png
 importance: 3
-category: Research Assistant
+category: ra
 giscus_comments: true
 ---
 
