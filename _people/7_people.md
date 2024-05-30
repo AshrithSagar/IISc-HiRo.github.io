@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Saumya Srivastava
-description: Robotic Assistant for Elderly Care
-img: assets/img/people/master/saumya.png
+title: Vaidehi Bagaria
+description: Variable Impedence Control
+img: assets/img/people/intern/Vaidehi_Bagaria.jpg
 importance: 3
-category: intern
+category: Intern
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com

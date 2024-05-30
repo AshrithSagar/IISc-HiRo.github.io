@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Md Farhad Hussain
-description: Object Modeling for Task Generalization
-img: assets/img/people/master/farhad.jpg
+title: Tashmoy Ghosh
+description: Bimaual Robot Manipulation
+img: assets/img/people/ra/Tashmoy.png
 importance: 3
-category: Master Students
+category: Research Assistants
 giscus_comments: true
-github: https://github.com
-linkedin: https://www.linkedin.com
+github: https://github.com/Tashmoy966
+linkedin: https://www.linkedin.com/in/tashmoy-ghosh-81ab42217
 ---
 
 Every project has a beautiful feature showcase page.

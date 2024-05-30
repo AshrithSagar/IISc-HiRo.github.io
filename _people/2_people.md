@@ -4,7 +4,7 @@ title: Vishnu Dutt Jawalakar
 description: Learning Long-Horizon Manipulation
 img: assets/img/people/master/vishnu.png
 importance: 2
-category: master
+category: Master Students
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com
