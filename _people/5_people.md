@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sidhartha Watsa
-description: Imitation Learning from Imperfect Demostration
+description: Imitation Learning From Imperfect Demostration
 img: assets/img/people/ra/sid.jpeg
 importance: 3
 category: ra
