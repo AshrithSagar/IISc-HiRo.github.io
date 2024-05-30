@@ -6,6 +6,8 @@ img: assets/img/people/ra/Tashmoy.png
 importance: 3
 category: ra
 giscus_comments: true
+github: https://github.com/Tashmoy966
+linkedin: https://www.linkedin.com/in/tashmoy-ghosh-81ab42217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ---
 
 Every project has a beautiful feature showcase page.
