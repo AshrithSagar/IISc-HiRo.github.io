@@ -6,6 +6,8 @@ img: assets/img/people/ra/sid.jpeg
 importance: 3
 category: ra
 giscus_comments: true
+github: https://github.com
+linkedin: https://www.linkedin.com
 ---
 
 Every project has a beautiful feature showcase page.

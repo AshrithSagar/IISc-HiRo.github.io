@@ -6,6 +6,8 @@ img: assets/img/people/master/vishnu.png
 importance: 2
 category: master
 giscus_comments: true
+github: https://github.com
+linkedin: https://www.linkedin.com
 ---
 
 Every project has a beautiful feature showcase page.
