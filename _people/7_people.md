@@ -4,7 +4,7 @@ title: Vaidehi Bagaria
 description: Variable Impedence Control
 img: assets/img/people/intern/Vaidehi_Bagaria.jpg
 importance: 3
-category: Intern
+category: Interns
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com
