@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Tashmoy Ghosh
-description: Bimaual Robot Manipulation
-img: assets/img/people/ra/Tashmoy.png
+title: Gokul M K
+description: Learning For Bimaual Robot Manipulation
+img: assets/img/people/intern/gokul.jpeg
 importance: 3
-category: Research Assistants
+category: Interns
 giscus_comments: true
-github: https://github.com/Tashmoy966
-linkedin: https://www.linkedin.com/in/tashmoy-ghosh-81ab42217
+github: https://github.com
+linkedin: https://www.linkedin.com
 ---
 
 Every project has a beautiful feature showcase page.

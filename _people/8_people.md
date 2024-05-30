@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tashmoy Ghosh
-description: Bimaual Robot Manipulation
+description: Bimaual Robot Manipulation 
 img: assets/img/people/ra/Tashmoy.png
 importance: 3
 category: Research Assistants
