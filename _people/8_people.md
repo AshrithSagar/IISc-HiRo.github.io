@@ -4,10 +4,10 @@ title: Tashmoy Ghosh
 description: Bimaual Robot Manipulation
 img: assets/img/people/ra/Tashmoy.png
 importance: 3
-category: ra
+category: Research Assistants
 giscus_comments: true
 github: https://github.com/Tashmoy966
-linkedin: https://www.linkedin.com/in/tashmoy-ghosh-81ab42217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+linkedin: https://www.linkedin.com/in/tashmoy-ghosh-81ab42217
 ---
 
 Every project has a beautiful feature showcase page.

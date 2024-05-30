@@ -4,7 +4,7 @@ title: Sidhartha Watsa
 description: Imitation Learning From Imperfect Demostration
 img: assets/img/people/ra/sid.jpeg
 importance: 3
-category: ra
+category: Research Assistants
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com
