@@ -11,7 +11,6 @@ Welcoming Our Newest PhD Scholar
 Name: Subhum Sonkar.
 Scholar Background:
 Research Focus: 
-
 Contact Information: For more info visit the <a href='https://iisc-hiro.github.io/people/'>people</a> page.
 
 Let us celebrate this exciting new chapter for both  and [University/Institute]!
