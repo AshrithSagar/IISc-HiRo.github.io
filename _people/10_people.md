@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Tashmoy Ghosh
+title: Anurag Maurya
 description: LLM for Low Level Robot Action Representation
-img: assets/img/people/ra/Tashmoy.png
+img: assets/img/people/ra/anurag_m.jpg
 importance: 3
 category: Research Assistants
 giscus_comments: true
-github: https://github.com/Tashmoy966
-linkedin: https://www.linkedin.com/in/tashmoy-ghosh-81ab42217
+github: https://github.com
+linkedin: https://www.linkedin.com
 ---
 
 Every project has a beautiful feature showcase page.
