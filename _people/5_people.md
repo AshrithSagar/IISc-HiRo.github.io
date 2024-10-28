@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Sidhartha Watsa
-description: Imitation Learning From Imperfect Demostration
-img: assets/img/people/ra/sid.jpeg
+title: Natish Murugesh
+description: Bimanual Robot Manipualtion
+img: assets/img/people/ra/Natish_M_photo.jpg
 importance: 3
 category: Research Assistants
 giscus_comments: true

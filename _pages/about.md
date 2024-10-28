@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
