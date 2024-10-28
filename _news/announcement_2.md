@@ -5,5 +5,9 @@ inline: true
 related_posts: false
 ---
 
-Welcome PHD's:
-    Subhum Sonkar
+Welcoming Our Newest PhD Scholar
+    
+    Name: Subhum Sonkar.
+    Scholar Background:
+    Research Focus: 
+    Contact Information: For more info visit the <a href='https://cps.iisc.ac.in'>people</a> page.
