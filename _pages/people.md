@@ -5,7 +5,7 @@ permalink: /people/
 description: members of the lab 
 nav: true
 nav_order: 2
-display_categories: [Lead, Master Students, Research Assistants, Interns]
+display_categories: [Lead, PhD Students, Master Students, Research Assistants, Alumni]
 horizontal: false
 ---
 
