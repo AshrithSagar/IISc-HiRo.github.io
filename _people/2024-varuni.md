@@ -2,7 +2,7 @@
 layout: page
 title: Varuni Buereddy
 description: Formal Language Compliant Skill Learning
-img: assets/img/people/phd/varuni.jpg
+img: assets/img/people/phd/varuni.jpeg
 importance: 3
 category: phd
 giscus_comments: true
