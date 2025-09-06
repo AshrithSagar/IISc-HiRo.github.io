@@ -2,7 +2,7 @@
 layout: page
 title: Shreyas Kumar
 description: Interactive and Safe Skill Learning
-img: assets/img/people/phd/shreyas.jpeg
+img: assets/img/people/ra/shreyas.jpeg
 importance: 3
 category: ra
 giscus_comments: true
