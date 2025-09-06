@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Md Farhad Hussain
-description: Object Modeling for Task Generalization
-img: assets/img/people/master/farhad.jpg
+title: Sahil Kishor Bobade
+description: Skill Learning for Bi-Manual Manipulation
+img: assets/img/people/master/sahil.jpg
 importance: 3
-category: Alumni
+category: alumni
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com

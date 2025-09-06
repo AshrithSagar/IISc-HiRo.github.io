@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Anurag Maurya
-description: LLM for Low Level Robot Action Representation
-img: assets/img/people/ra/anurag_m.jpg
+title: Md Farhad Hussain
+description: Object Modeling for Task Generalization
+img: assets/img/people/master/farhad.jpg
 importance: 3
-category: Research Assistants
+category: alumni
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com
