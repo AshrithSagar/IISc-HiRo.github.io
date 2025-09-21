@@ -4,7 +4,7 @@ title: Shreyas Kumar
 description: Interactive and Safe Skill Learning
 img: assets/img/people/ra/shreyas.jpeg
 importance: 3
-category: ra
+category: Research Associates
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com

@@ -5,7 +5,7 @@ permalink: /people/
 description: members of the lab 
 nav: true
 nav_order: 2
-display_categories: [lead, phd , master, ra, alumni]
+display_categories: [lead, PhD , Master's, Research Associates, Alumni]
 horizontal: false
 ---
 

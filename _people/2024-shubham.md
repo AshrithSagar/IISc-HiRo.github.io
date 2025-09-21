@@ -4,7 +4,7 @@ title: Shubham Sonkar
 description: Skill Learning and Generalization
 img: assets/img/people/phd/shubham.jpg
 importance: 3
-category: phd
+category: PhD
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Varuni Buereddy
-description: Formal Language Compliant Skill Learning
-img: assets/img/people/phd/varuni.jpeg
+title: Shashwat Gupta
+description: Bin Packing with test time preference integration
+img: assets/img/people/ra/Shashwat_pp.jpg
 importance: 3
-category: PhD
+category: Research Associates
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com

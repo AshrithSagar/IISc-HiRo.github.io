@@ -4,7 +4,7 @@ title: Anurag Maurya
 description: LLM for Low Level Robot Action Representation
 img: assets/img/people/ra/anurag_m.jpg
 importance: 3
-category: ra
+category: Research Associates
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com

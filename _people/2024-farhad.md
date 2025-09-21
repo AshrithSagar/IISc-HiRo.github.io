@@ -4,7 +4,7 @@ title: Md Farhad Hussain
 description: Object Modeling for Task Generalization
 img: assets/img/people/master/farhad.jpg
 importance: 3
-category: alumni
+category: Alumni
 giscus_comments: true
 github: https://github.com
 linkedin: https://www.linkedin.com
