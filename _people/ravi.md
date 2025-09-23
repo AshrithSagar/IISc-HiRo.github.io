@@ -4,7 +4,7 @@ title: Dr. Ravi Prakash
 description: Robotics, Machine Learning, Human-Robot Interaction
 img: assets/img/people/rprakash.jpg
 importance: 1
-category: lead
+category: PI
 related_publications: true
 github: https://github.com/IISc-HiRo
 linkedin: https://in.linkedin.com/in/ravi-prakash-a93ab9a8
