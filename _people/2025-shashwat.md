@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shashwat Gupta
-description: Bin Packing with test time preference integration
+description: Irregular Bin Packing
 img: assets/img/people/ra/Shashwat_pp.jpg
 importance: 3
 category: Research Associates
