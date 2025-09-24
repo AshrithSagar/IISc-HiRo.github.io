@@ -2,7 +2,7 @@
 layout: page
 title: Akhil R Kurup
 description: Learning for Planning
-img: assets/img/people/master/akhil.jpg
+img: assets/img/people/master/akhil.jepg
 importance: 3
 category: Master's
 giscus_comments: true
