@@ -2,7 +2,7 @@
 layout: page
 title: Mumuksh Tayal
 description: Deep Learning for Robotics
-img: assets/img/people/master/mumuksh.jepg
+img: assets/img/people/master/mumuksh.jpeg
 importance: 3
 category: Master's
 giscus_comments: true
