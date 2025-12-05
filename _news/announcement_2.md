@@ -6,10 +6,6 @@ related_posts: false
 tags: formatting links
 ---
 
-Welcoming Our Newest PhD Scholar
-    
-    Name: Subhum Sonkar.
-    Scholar Background:
-    Research Focus: 
+Many things happening - regular updates coming soon
 
-For more info visit the <a href='https://iisc-hiro.github.io/people/'>people</a> page.
+<!-- For more info visit the <a href='https://iisc-hiro.github.io/people/'>people</a> page. -->

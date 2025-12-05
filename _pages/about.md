@@ -30,7 +30,7 @@ Our group's research interests lie at the intersection of robotics, machine lear
     This image can also have a caption. It's like magic.
 </div-->
 Research advances (sketched above) are targeted in the domain of 
-
+<!-- 
   - Interactive Skill Learning
       - Imitation Learning via Dynamical Systems, DMPs, Gaussian Processes
       - Imperfect Human Demonstration
@@ -48,7 +48,26 @@ Research advances (sketched above) are targeted in the domain of
       - Impedance Control for HRI
       - AI augmented Optimal Control
       - Stability Guarentee for Interconnected Systems
-      - Fail Safe Motion in Human Environment
+      - Fail Safe Motion in Human Environment -->
+      
+   - Toward a Science of Data for Robot Learning
+      - Establishing principles for the composition and curation of multimodal learning datasets
+      - distinguishing useful variability from noise
+      - and enabling robots to learn effectively from mixed-quality demonstrations.
       
 
+  - Generalization and Robustness under Distributional Shifts
+      - Generalization of policy via Task-Parameterization (i.e., frame, object, obstacle, landmarks)
+      - Developing continual learning controllers with certified stability that adapt safely to evolving task conditions
+      - Generalization of task via object relationship modeling (i.e., affordances)
+  - Safe and Reliable Control of Autonomous Systems
+      - Impedance control for HRI
+      - AI augmented Optimal Control and Reinforcement Learning
+      - Advancing modular safety filters and decentralized safety mechanisms for cooperative, contact-rich, or human-in-the-loop systems. 
+  - Language, Agents, and World Models 
+      - Building embodied foundation models that unify language, perception, and control
+      - Diffusion-based world modeling and reasoning-guided policy learning.
+      
+      
+     
 
